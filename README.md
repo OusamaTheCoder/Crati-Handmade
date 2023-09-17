@@ -11,7 +11,7 @@
 
   Crafti is a fully responsive agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://crafti-handmade.github.io/craftihandmade/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ousamathecoder.github.io/Crati-Handmade/"><strong>➥ Live Demo</strong></a>
 
 </div>
 <br/>
