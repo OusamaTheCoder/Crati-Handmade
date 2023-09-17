@@ -28,18 +28,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Crafti** locally, run this command on your git bash:
+To run **Crafti Handmade** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/OusamaTheCoder/crafti.git
+sudo git clone https://github.com/OusamaTheCoder/Crati-Handmade.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/OusamaTheCoder/crafti.git
+git clone https://github.com/OusamaTheCoder/Crati-Handmade.git
 ```
 
 ### Contact
