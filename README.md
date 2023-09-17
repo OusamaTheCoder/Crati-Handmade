@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/OusamaTheCoder/crafti)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/OusamaTheCoder/Crati-Handmade)
   [![Twitter Follow](https://img.shields.io/twitter/follow/OusamaTheCoder?style=social)](https://twitter.com/intent/follow?screen_name=OusamaCodeCraft)
   
 
